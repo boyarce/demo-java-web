@@ -1,0 +1,38 @@
+
+body {
+    background-color: black;
+    margin-top: 0px;
+}
+
+div {
+    background-color: white;
+    width: 800px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+}
+
+header div {
+    text-align: right;
+    margin-right: 50px;
+}
+
+div img {
+    height: 450px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+}
+
+#menu li {
+    display: inline;
+    border: 1px solid black;
+    padding:5px;
+    border-spacing: 0px;    
+} 
+
+#menu ul {
+    border-spacing: 0px; 
+}
